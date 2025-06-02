@@ -12,7 +12,8 @@ local honor = {
 for i,v in ipairs(game.Players:GetChildren()) do
   if table.find(honor, v.Name) then
     player.Character.HumanoidRootPart.CFrame = v.Character.Head.CFrame
-    print('Do not exploit in servers owned by HR Ignation affiliates. In this case, "' .. table.find(honor, v.Name) '".')
+    task.wait()
+    print('Do not exploit in servers owned by HR Ignation affiliates. In this case: @' .. v.Name .. '.')
   end
 end
 
