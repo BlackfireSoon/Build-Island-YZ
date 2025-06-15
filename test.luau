@@ -1,6 +1,6 @@
 local playerNumber = game.Players.LocalPlayer:FindFirstChild('playerNumber')
 if not playerNumber then
-	error('you need rank 1 idiot')
+    error('player does not have rank 1=<')
 end
 playerNumber = playerNumber.Value
 
