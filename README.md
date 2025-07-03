@@ -1,2 +1,3 @@
 # Build-Island-YZ
-Build Island X remastered, this is the newest best script for Build Island.
+THIS IS THE OLD BUILD ISLAND YZ REPOSITORY, THE NEW ONE IS IN THE IGNATION HUB REPOSITORY 
+https://raw.githubusercontent.com/BlackfireSoon/Ignation-Hub/refs/heads/main/loadstring.luau
