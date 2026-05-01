@@ -4,7 +4,7 @@ local banned = {
   'plexitium';
 }
 local honor = {
-  'biackfiredeveioper';
+  'blockdown64'; --The griefing and exploiting master!
   'jegerrex';
   'fliptherepublics';
 }
