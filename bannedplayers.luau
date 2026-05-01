@@ -5,6 +5,7 @@ local banned = {
 }
 local honor = {
   'blockdown64'; --The griefing and exploiting master!
+  'MyManOldenTime'; --He is soo good at making exploits for roblox games
   'jegerrex';
   'fliptherepublics';
 }
