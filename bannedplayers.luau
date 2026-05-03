@@ -11,8 +11,8 @@ local honor = {
   'fliptherepublics';
 }
 
-if game.PlaceId ~= 129337676281349 then
-player:Kick('F')
+if (game.CreatorId ~= 235741049) or (game.CreatorId ~= 421267083) then
+player:Kick('You can only use this script in BIld Iland Experimentil.')
 end
 
 for i,v in ipairs(game.Players:GetChildren()) do
