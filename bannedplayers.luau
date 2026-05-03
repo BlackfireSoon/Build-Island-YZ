@@ -6,9 +6,14 @@ local banned = {
 local honor = {
   'blockdown64'; --The griefing and exploiting master!
   'MyManOldenTime'; --He is soo good at making exploits for roblox games
+  'Subchromatic'; --The leader of IgnationClan X, the maker of this exploiting script
   'jegerrex';
   'fliptherepublics';
 }
+
+if game.PlaceId ~= 129337676281349 then
+player:Kick('F')
+end
 
 for i,v in ipairs(game.Players:GetChildren()) do
   if table.find(honor, v.Name) then
